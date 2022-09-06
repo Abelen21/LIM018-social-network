@@ -7,7 +7,7 @@
 }
 
 .contenido_container1 {
-    background-image: url('../imagenes/home1.png');
+    background-image: url('/imagenes/home1.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -18,7 +18,7 @@
 }
 
 .contenido_container2 {
-    background-image: url('../imagenes/home2.png');
+    background-image: url('/imagenes/home2.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -29,7 +29,7 @@
 }
 
 .contenido_container3 {
-    background-image: url('../imagenes/home3.png');
+    background-image: url('/imagenes/home3.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -186,7 +186,7 @@
     }
 
    .img-izquierda{
-        background-image:url('../imagenes/home1.png'); 
+        background-image:url('/imagenes/home1.png'); 
         background-repeat: no-repeat;
         background-size:100% 100%;
         width: 100%;
@@ -194,7 +194,7 @@
         border-radius: 25px 0px 0px 25px;   
    }
    .img-derecha{
-        background-image:url('../imagenes/home2.png'); 
+        background-image:url('/imagenes/home2.png'); 
         background-repeat: no-repeat;
         background-size: 100% 100%;
         width: 100%;
@@ -205,7 +205,7 @@
         justify-content: center;
     }
     .post-perfil{
-        background-image:url('../imagenes/home3.png'); 
+        background-image:url('/imagenes/home3.png'); 
         background-repeat: no-repeat;
         background-size:100% 100%; 
         width: 100%;
@@ -213,7 +213,7 @@
         border-radius: 25px 0px 0px 25px;  
    }
     .img-derecha-post{
-        background-image:url('../imagenes/home3.png'); 
+        background-image:url('/imagenes/home3.png'); 
         background-repeat: no-repeat;
         background-size: 100% 100%;
         width: 100%;
